@@ -8,3 +8,5 @@ pom.xml.versionsBackup
 .classpath
 **/.DS_Store
 mvn/wrapper/maven-wrapper.jar
+.settings/
+./mvn
