@@ -1,4 +1,4 @@
-package com.dailycoding;
+package com.learning.dailycoding;
 
 public class Problem765 {
 
